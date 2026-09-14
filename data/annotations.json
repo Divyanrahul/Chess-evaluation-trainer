@@ -1,0 +1,615 @@
+{
+ "_README": [
+  "Annotations extracted from the source PGN files by scripts/extract_annotations.py.",
+  "Keyed by FEN (board/side/castling/en-passant; move counters ignored).",
+  "",
+  "Entries tagged 'extracted': true are machine-pulled from the PGN and may be",
+  "refreshed by re-running the extractor. Remove that tag (or write a new entry)",
+  "to mark one as hand-curated -- the extractor will then never touch it.",
+  "",
+  "'source' records the annotator honestly. These collections differ a lot:",
+  "gm_games.pgn is credited to Irina Krush, great_masters.pgn names its club",
+  "annotators, and famous_games.pgn credits nobody -- so many entries say",
+  "'annotator not credited'. Read them accordingly."
+ ],
+ "r2qk1nr/ppp2ppp/2npb3/1Bb5/4P3/2N2N1P/PP3PP1/R1BQK2R b KQkq -": {
+  "text": "8.Bxe6 fxe6 9.Qb3 Qc8 10. Ng5 Nd8 Black has everything defended plus his extra pawn.",
+  "source": "Meek - Morphy, New York 1857.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r1bq1rk1/pppp1ppp/2n2n2/b2Pp3/2B1P3/2P2N2/P4PPP/RNBQ1RK1 b - -": {
+  "text": "An instructive mistake since White wishes to develop with gain of tempo. By locking the center White keeps his own pieces out of the attack. 8.dxe5 Nxe4 9.Bd5 Nc5 10.Ng5 Qe7 would leave Black better developed.",
+  "source": "Mongredien - Morphy, Paris 1859.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "rnbq2k1/ppp3bp/3p4/7n/3PPBpP/2N3P1/PPP5/R2Q1RK1 b - -": {
+  "text": "13.Bg5 Not delaying the opening of the f-file while attacking Black's queen was also possible.",
+  "source": "Steinitz - Hirschfeld, London 1863.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "rn1qk1nr/pbp2pbp/1p4p1/4p3/2B1P3/2P1BN2/PP1N1PPP/R2QK2R b KQkq -": {
+  "text": "Steinitz reso lutely avoids advances which might provide targets for Black's pieces. 7.d5 c6 8.c4 Ne7 9.Be2 f5 gives Black good counterplay.",
+  "source": "Steinitz - Mongredien, London 1863.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "r1bq1rk1/pp1n1ppp/2pbp3/8/2PPp3/4P3/PP1BBPPP/2RQK1NR b K -": {
+  "text": "White's king is stuck in the center, so Black opens things up.",
+  "source": "B.Lasker - Lasker, Berlin 1890.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r4rk1/pppbq1pp/5n2/4bp2/8/2PP2P1/PP2P1BP/R2QKNNR w KQ -": {
+  "text": "10.Bxb7 Rb8 would allow Black to further increase his development advantage. However, this may of been White's best chance.",
+  "source": "Bird - Lasker, Hastings 1895.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies before this position]",
+  "extracted": true
+ },
+ "3rk3/2p2rpp/1bn1p3/1p2p3/1P2n3/1NP2P2/4K1PP/R1B1N2R w - -": {
+  "text": "The knight can't be taken due to mate in one.",
+  "source": "Lasker - Steinitz, World Championship 1896.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r2q1rk1/2p1b1pp/p1n2p2/1p1pP3/3P2b1/1BP2N2/P3QPPP/R1BR2K1 w - -": {
+  "text": "A mistake which weakens Black's kingside. 14...Qd7 would finish hisdevelopment while also connecting the rooks.",
+  "source": "Lasker - Teichmann, St.Petersburg 1909.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "3rr1k1/1b2n1pp/ppppNp2/5P2/4P3/2N5/PPP3PP/R4RK1 b - -": {
+  "text": "This infiltration of the outpost at e6 puts Black in real trouble.",
+  "source": "Lasker - Capablanca, St.Petersburg 1914.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "rnb1kn1r/ppp1q2p/4pp2/3p4/3P1NQ1/2N5/PPP2PP1/R3KB1R w KQkq -": {
+  "text": "12.Nfxd5 exd5+ Since Black has opened the e-file the White king is in check after capturing the knight.",
+  "source": "Alekhine - Fahrni, Mannheim 1914.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r1b2rk1/p1p2ppp/2pb4/8/3N3q/4B3/PPP2PPP/R2QK2R w KQ -": {
+  "text": "Black had to drop a pawn, and he hopes to get his king to safety this way, but White won't let him off so easy.",
+  "source": "Tarrasch - Lasker, Berlin 1916.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r1b2rk1/p3qpp1/1ppbpn1p/8/2PP4/1P1Q1N2/P1B2PPP/R1B2RK1 w - -": {
+  "text": "Now all White's pieces are aimed at Black's king.",
+  "source": "Capablanca - Scott, Hastings 1919.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r1b1k2r/pp3p1p/4p3/q3P3/2B1n1p1/1QP1B3/P4PPP/2R1K2R b Kkq -": {
+  "text": "15...Qxe5 16.Bd4 Qf4 17.Bb5+ Bd7 18.O-O when White's huge lead in development would give him a winning initiative.",
+  "source": "Alekhine - Von Balla, Budapest 1921.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "rn1q1rk1/pb2bppp/1pp1p3/8/3PP3/2PB1N2/P1Q2PPP/R1B1K2R w KQ -": {
+  "text": "White uses his better development to start a kingside attack.",
+  "source": "Alekhine - Koenig, Vienna 1922.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r3kb1r/q2n1ppp/p7/3Pp3/Pp2N3/8/1PQ2PPP/R1B2RK1 b kq -": {
+  "text": "17...Bc5 with the idea of castling would be met by 18.Be3 Bxe3 19.Nd6+ Kf8 20.fxe3 Qxe3+ 21.Kh1 when White would have a big advantage for the lost pawn due to Black's uncastled king and better development.",
+  "source": "Alekhine - Hromadka, Bad Pistyan 1922.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r1b2rk1/pp1nq1pp/2p1p3/3p1p2/2PP4/2QBPN2/PP3PPP/R4RK1 w - -": {
+  "text": "A mistake which gives up control of the e5 square. 11...dxc4 12.Bxc4 c5 would be a better for White due to his better development.",
+  "source": "Alekhine - Maroczy, Carlsbad 1923.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "2rqrnk1/p4bpp/1bp2p2/3p4/3P1PP1/3BNN2/PQ3P1P/R4RK1 w - -": {
+  "text": "This prevent s Black from using the e6-square but it creates further holes on the kingside.",
+  "source": "Alekhine - Lasker, New York 1924.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "rnbqk2r/1ppn1ppp/p3p3/8/1bBPP3/2N2N2/PPQ2PPP/R1B1K2R b KQkq -": {
+  "text": "White has complete control of the center, which will provide the basis for an attack. The 17-year old Botvinnik shows that he understands the opening well.",
+  "source": "Botvinnik - Timofeyev, Leningrad 1924.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "r1bq1rk1/pp3ppp/2n1pb2/2p5/2P3n1/1P1PPNP1/PB2Q1BP/RN3RK1 w - -": {
+  "text": "The queen doesn't do anything here and Black will soon gets exposed on the kingside.",
+  "source": "Capablanca - Marshall, Moscow 1925.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "2r2rk1/5ppp/1qn1p3/p1p5/2Pp4/P5P1/1PQBPPKP/R2R4 b - -": {
+  "text": "Black's space edge in the center is getting dangerous, but White can't do anything about it.",
+  "source": "Gotthilf - Capablanca, Moscow 1925.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "r3k2r/ppq2p2/2n1p1p1/3pP1Pp/5P2/2P1Q3/PP2N2P/3R1RK1 b kq -": {
+  "text": "Now White must either let the h-file be opened onto his king or give Black the f5 square.",
+  "source": "Nimzovitch - Capablanca, New York 1927.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "rn2kbnr/pp3p1p/6p1/4p3/3N4/2P5/PP3PPP/RNB1K2R w KQkq -": {
+  "text": "Taking advantage of White's exposed knight to gain a strong center pawn.",
+  "source": "Merenyi - Capablanca, Budapest 1928.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "8/4rp1p/ppk3p1/2n1p3/P1P5/R3P3/1P1NK1PP/8 b - -": {
+  "text": "Black's edge is now clear across the whole board: White has weaknesses on c4, a4, e3 and g2, and Black's pieces are all more active than their counter- parts.",
+  "source": "Merenyi - Capablanca, Budapest 1928.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r1bq1rk1/1ppp1ppp/pbn5/3Np3/PPB1n3/5N2/2PP1PPP/R1BQ1RK1 w - -": {
+  "text": "Botvinnik must have felt that with his king out of the center there was no danger, but he quickly realizes that this is not the case.",
+  "source": "Kan - Botvinnik, USSR Championship 1929.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "rnbq1rk1/pp1p1ppp/5n2/1N2p3/2P5/2N5/PP1QPPPP/R3KB1R b KQ -": {
+  "text": "This loses time. Black had to try 8...Nc6, though the dark squares give White an edge.",
+  "source": "Capablanca - Torres, Barcelona 1929.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "1r2kb1r/5ppp/pq2p3/3b4/P2P4/1P2QN2/3B1PPP/R1R3K1 w k -": {
+  "text": "18...Rxc1+ 19.Rxc1 would leave Black's back rank vulnerable.",
+  "source": "Alekhine - Sultan Khan, Bern 1932.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "2rqk2r/pb1n1pp1/1p3n1p/2pp4/3P3B/P1PBPP2/4N1PP/R2QK2R w KQk -": {
+  "text": "White stands better because of his bishop pair and control of the center. Notice how White's center pawns control the Black knights.",
+  "source": "Euwe - Kan, Leningrad 1934.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "2kr3r/pppqnp2/2nb2p1/3p3p/3P1P2/2PQB1NP/PP4P1/2KR1RN1 b - -": {
+  "text": "17.f5 h4 18.f6 Ng8 19.Nh1 Re8 when Black has the advantage as White's f-pawn has broken away from the protection of his pieces.",
+  "source": "Winter - Alekhine, Nottingham 1936.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r1b1kn1r/pp2bppp/1qn1p3/3pP3/3P4/P2B1N2/1P2NPPP/R1BQ1K1R w kq -": {
+  "text": "In this sharp line of the French, opening lines with 10...f6 is a wiser move.",
+  "source": "Alekhine - Capablanca, AVRO 1938.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "4r1k1/5pp1/1prp1q1p/p3pP2/2P1P3/2Q3P1/PP3R1P/5RK1 w - -": {
+  "text": "Now White has opened some lines and useful light squares, and Black now has to defend the weaknesses at b6 and d6. But Black threatens 26...b5!",
+  "source": "Keres - Euwe, Holland 1939.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r3k2r/ppp1bp1p/n1b1pp2/3q4/3P4/5NP1/PPPNQP1P/R3KB1R w KQkq -": {
+  "text": "A simple yet strong pawn move which keeps the Black knight out of the game.",
+  "source": "Smyslov - Boleslavsky, Soviet Championship 1941.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "2kr1b1r/pb1n1p2/1qp1pP2/1p4B1/P1pP4/2N5/1P2BPPP/R2Q1RK1 b - -": {
+  "text": "But this came as somewhat of a surprise. Still, the move is not very good, because it allows me to advance my queenside pawns and does little to disrupt my queenside play.",
+  "source": "Denker - Botvinnik, USA-USSR Radio match 1945.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "3r3k/6pp/p7/1p1B4/2p5/5PB1/Pq4P1/3R1R1K b - -": {
+  "text": "White halts the c-pawn's advance by pinning it to the Black queen.",
+  "source": "Smyslov - Reshevsky, USSR vs USA 1945.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "r1bb1rk1/1pp3pp/p1p1n3/4Pp2/8/2N2N2/PPPB1PPP/R3R1K1 b - -": {
+  "text": "White now stands worse since his e-pawn is blockaded and in need of constant defense.",
+  "source": "Bondarevsky - Smyslov, Soviet Union 1946.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r3kb1r/1b1q1p1p/p3pp2/8/2QP4/2p2N2/PP3PPP/R1BR2K1 b kq -": {
+  "text": "Black uses the open g-file to launch a kingside attack.",
+  "source": "Szabo - Euwe, Groningen 1946.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "r1b2rk1/1p2nppp/2p5/p7/4P3/P1B1P3/BP4PP/4RRK1 b - -": {
+  "text": "The Black king is clearly in a lot of trouble, with only a little nuisance value on the g-file as compensation. The combination of queen and rook are so strong that White can afford to part with the knight.",
+  "source": "Botvinnik - Euwe, World Championship 1948.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r2qk2r/2p2ppp/p3b3/npbpP3/8/1BP2N2/PP1Q1PPP/R1B2RK1 w kq -": {
+  "text": "This knight is making a few too many moves in the opening.",
+  "source": "Tal - Miglan, Soviet Junior Championship 1950.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "r2qr1k1/pppn1ppp/6b1/4p3/1PP5/P1B1PP2/1Q2B1PP/R3K2R w KQ -": {
+  "text": "14...e4 15.f4 Bxe2 16.Qxe2 White's bishop dominates the a1-h8 diagonal, while, Black's knight has no central outpost.",
+  "source": "Euwe - Kramer, Holland Championship 1952.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "r1bq1rk1/pppp1ppp/2n5/1BbnP3/3P4/5N2/PP3PPP/RNBQ1RK1 b - -": {
+  "text": "7...dxc3 is not playable because the knight at d5 can be captured by the queen.",
+  "source": "Smyslov - Barcza, Helsinki 1952.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r1b2rk1/pp3pp1/3p3p/2pP4/Q3PPq1/2P3N1/P5PP/R4RK1 w - -": {
+  "text": "Having eliminated the attack, Spassky establishes a dominating center.",
+  "source": "Spassky - Smyslov, Bucharest 1953.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r1bq1rk1/3nbppp/p4n2/1p2p1B1/4P3/1NNB4/PPP3PP/R2Q1RK1 b - -": {
+  "text": "12.Nd5 Nxd5 13.Qxd5 Bxg5 14.Qxa8 Qb6+ 15.Kh1 Bb7 would trap the White queen.",
+  "source": "Milner Barry - Petrosian, Great Britian vs USSR 1954.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r2q1rk1/5p1p/4bbp1/2n1p3/ppN1P3/3B2N1/PPP1Q1PP/3R1RK1 b - -": {
+  "text": "Black's king bishop takes control of the dark squares.",
+  "source": "Milner Barry - Petrosian, Great Britian vs USSR 1954.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r1bqr2k/pp1n1ppB/2pb3p/8/2PR4/4PN2/PBQ2PPP/5RK1 b - -": {
+  "text": "16...Nf6 17.c5 Nxh7 18.Rxd6 Qe7 19.Rxh6 This takes advantage of the Black g- pawn being pinned by the White bishop on b2.",
+  "source": "Petrosian - Taimanov, Soviet Championship 1955.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r2q1rk1/1pn4p/3R2p1/4p3/P1b1P3/4PNP1/6BP/3Q1RK1 b - -": {
+  "text": "White's material advantage is of no significance, and Black can easily regain his pawn. The chief defect of Black's position is the exposed situation of his king and the lack of coordination between his other pieces.",
+  "source": "Smyslov - Botvinnik, Soviet Championship 1955.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "4r1k1/3br1bp/p2p4/2pPnp1q/2P2B2/1Q4P1/P1N3BP/4RRK1 b - -": {
+  "text": "Before beginning play in the center Black locks up the queenside.",
+  "source": "Horowitz - Petrosian, USSR vs USA Match 1955.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r3kb1r/p2q1ppp/2p2n2/1pnp1p2/2P5/P2P2P1/1P1NPPBP/R1BQ1RK1 w kq -": {
+  "text": "Creating a weakness on c6, which White exploits immediately.",
+  "source": "Fischer - Lapiken, US Open 1956.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 4 plies before this position]",
+  "extracted": true
+ },
+ "1r1qb3/pp2kp2/2npp1pQ/2p3N1/2P5/2PP2P1/P2KPPB1/R7 w - -": {
+  "text": "The White king will be safe here and now the rook can transfer to the h-file.",
+  "source": "Botvinnik - Gligoric, Moscow Olympiad 1956.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "rn1r2k1/p3bppp/1qp1pn2/4N3/1p2P3/1P4P1/PB2QPBP/2R2RK1 w - -": {
+  "text": "Although, a pawn down White stands better due to his more active pieces and control of the center.",
+  "source": "Petrosian - Khasin, USSR Semi-Finals 1957.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "1k4rr/pp2bp2/4p1q1/n2pP1p1/b1pP2B1/P1P1B2P/1P1RQP1N/5RK1 b - -": {
+  "text": "The knight also makes its way to the kingside.",
+  "source": "Clarke - Petrosian, Olympiad 1958.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "3q1r1k/1p3p1p/p1rpbnp1/4p1b1/4P3/1NPQNB2/PP3PPP/3RR1K1 w - -": {
+  "text": "Black has a backward d-pawn, but it is well protected by the rook. Black stands better with his more active pieces and pending minority attack on the queenside.",
+  "source": "Averbakh - Petrosian, Soviet Championship 1959.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "b4rk1/p2nqrpp/1p1pp3/8/1PPPp3/PQ2N3/2R1BPPP/5RK1 b - -": {
+  "text": "21...Qg5 would have been more to the point.",
+  "source": "Petrosian - Olafsson, Candidates' Tournament 1959.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "rnbqkb1r/pp2p2p/4pnp1/2Pp4/7P/2NB1N2/PPP2PP1/R1BQK2R b KQkq -": {
+  "text": "White prevents Black from establishing a strong center with 10...e5.",
+  "source": "Tal - Campomanes, Leipzig Olympiad 1960.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "2r1k2r/pb2bpp1/1pnqp2p/8/8/P2BPN2/1PQB1PPP/2R2RK1 w k -": {
+  "text": "This weakens the Black kingside. 15...Bf6 Followed by g6 would be less weakening.",
+  "source": "Petrosian - Smyslov, Soviet Championship 1961.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "4k2r/5ppp/1qb1pb2/8/2Bp4/Q4N2/PrP2PPP/R4RK1 b k -": {
+  "text": "A good move which blocks the White queen from the a3-f8 diagonal.",
+  "source": "Tal - Petrosian, Candidates Curacao 1962.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "rnb1k2r/1p3p1p/p4pp1/q7/1bBN4/2N1P3/PP3PPP/2RQK2R w Kkq -": {
+  "text": "Black doesn't have time for this luxury. Better was castling.",
+  "source": "Petrosian - Korchnoi, Candidates' Tournament 1962.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "2B5/p4kp1/4p2p/P2bn3/3N1r2/8/6PP/3R2K1 w - -": {
+  "text": "With Black being a clear pawn up White's chances rest with the a-pawn.",
+  "source": "Fischer - Petrosian, Candidates' Tournament 1962.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "2r1k2r/1b3ppp/p3p3/qpb1n1B1/4PN2/1B1R4/PP2QPPP/5RK1 w k -": {
+  "text": "Played with the idea of discouraging Black from castling.",
+  "source": "Petrosian - Bertok, Stockholm Interzonal 1962.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "rnbq1rk1/pp3pb1/3p1npp/3Pp3/4P2P/2N1B3/PP2BPP1/R2QK1NR b KQ -": {
+  "text": "Forced as Black would come under a direct kingside attack if he allowed the h-file to be opened.",
+  "source": "Petrosian - Schweber, Stockholm Interzonal 1962.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "r1q1k2r/pp2bppp/2pnbn2/3p4/3P1BP1/2NBP2P/PPQN1P2/R4K1R w kq -": {
+  "text": "The White king will find safety on the g2 square.",
+  "source": "Botvinnik - Petrosian, World Championship 1963.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies before this position]",
+  "extracted": true
+ },
+ "4r3/3rn1k1/1p3pb1/p1pPn1p1/P3P1Pp/1P2N2P/2BR2N1/4KR2 b - -": {
+  "text": "44.Nc4 challenging the Black knight on e5 was a better choice.",
+  "source": "Botvinnik - Petrosian, World Championship 1963.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "2r5/p3k2p/1p2p1p1/1P6/Pbp1N3/4P3/2R1KPPP/8 w - -": {
+  "text": "Black is wrong to place his queenside pawns on Black squares which the enemy bishop can attack. 28...Nd6 Bringing the knight back to defend the kingside.",
+  "source": "Petrosian - Botvinnik, World Championship 1963.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r4rk1/ppp3b1/1n2p1p1/7p/4PP1P/2N1B3/PP3P2/2KR3R w - -": {
+  "text": "White stands better in the endgame because of his more active pieces.",
+  "source": "Petrosian - Botvinnik, World Championship 1963.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "r5k1/1prnpp1p/2b3p1/p7/q3P3/3P1NP1/PQ3PBP/1R2R1K1 w - -": {
+  "text": "White's restrained pawns now conquer the centre and Black is crushed by a three-pronged attack.",
+  "source": "Smyslov - Ader, Tel Aviv Olympiad 1964.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "r3rnk1/pb2q1pp/1pp5/5p2/Q2P4/2N1PN2/PP4PP/4RRK1 w - -": {
+  "text": "This knight is more powerful than both of Black's minor pieces! White's future plans involve getting the pawn at f5 out of the way so that the rook can infiltrate on the seventh rank.",
+  "source": "Botvinnik - Robatsch, Amsterdam 1966.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "rnb2rk1/ppp3bp/3p2p1/3PpqNn/2P5/2N3P1/PP2BP1P/R1BQK2R w KQ -": {
+  "text": "A very strong move whose purpose is two-fold. First, White is threatening to win a pawn with 11. Bxh5 gxh5 12. Qxh5. Secondly, The knight is looking to penetrate the Black camp at e6.",
+  "source": "Petrosian - Zaitsev, Soviet Union 1966.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r2qk2r/pp2p1b1/2np2pn/5b2/2P5/2N5/PPN2PP1/R1BQKB1R b KQkq -": {
+  "text": "Black is way ahead in development and continues to bring his forces into the game quickly.",
+  "source": "Szabo - Botvinnik, Amsterdam 1966.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "2rqkb1r/1p1bpp2/p1np1p1p/8/3NPP2/2N5/PPPQ2PP/2KR1B1R w k -": {
+  "text": "The idea here is to provide a square for the bishop at h6. Notice how cramped the Black king is. The monarch must remain in the center, since both flanks have crippled pawn structures.",
+  "source": "Spassky - Bilek, Moscow 1967.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "2r2rk1/p4ppp/1p6/n2P4/5Q2/5N2/q4PPP/3RR1K1 w - -": {
+  "text": "Black simply has no right to play so ambitiously when his position is inferior and White can afford to ignore the threat at a2. On the other hand, White has no desire to see the queens off the board, as the lady plays escort to the Pd5",
+  "source": "Spassky - Petrosian, World Championship 1969.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "rn1qk2r/p2p1ppp/1p3n2/2pP4/8/2P1P1N1/P4PPP/R1BQ1K1R b kq -": {
+  "text": "White controls more space in the enter and Black's knights are ineffective.",
+  "source": "Smyslov - Littlewood, Hastings 1970.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "rn2k2r/p1pqppbp/1p4p1/3b4/5Q2/3P1NP1/PP2PPBP/R1B1K2R b KQkq -": {
+  "text": "10.Qxd7+ Nxd7 would be a little better for Black because his bishops would apply pressure on the queenside.",
+  "source": "Langeweg - Smyslov, Amsterdam 1971.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "2r2rk1/pR3p1p/3b2p1/3B4/3B4/8/PPP3PP/6K1 w - -": {
+  "text": "White's passed pawn is the key to victory.",
+  "source": "Fischer - Larsen, Candidates' Match 1971.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "rnbqr1k1/1p3pb1/p2p1npp/2pP4/2P5/2NB3P/PP1BNPP1/R2QK2R w KQ -": {
+  "text": "11...Na6 This might be better, moving the knight to c7 before occupying a6.",
+  "source": "Petrosian - Minic, Sarajevo 1972.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "2b3k1/6p1/2r1p2p/2b5/5q2/6Q1/P1R2PPP/5RK1 b - -": {
+  "text": "A serious miscalculation. 25.Qf3 Qxf3 26. gxf3 e5 27.Kh1 Bb7 28.Rb1 Rb6 29.Rxb6 Bxf3+ 30.Kg1 Bxb6 31.a4 might have been better, as suggested by Viktor Korchnoi.",
+  "source": "Spassky - Tal, Tallinn 1973.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "2rr2k1/1p3ppp/8/pB1p4/P2Pb1P1/8/1P3PP1/R3R1K1 w - -": {
+  "text": "The immediate objective has now been achieved, and after the doubling of rooks on the e-file Karpov illustrates his famous endgame technique to secure the point.",
+  "source": "Karpov - Uhlmann, Madrid 1973.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "r1bq1rk1/pp2bppp/2n1p3/4P3/8/3B1N2/PP3PPP/R1BQ1RK1 w - -": {
+  "text": "This retreat hands the initiative over to White. Better was 10...Qh5",
+  "source": "Kasparov - Begun, Minsk 1978.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 4 plies before this position]",
+  "extracted": true
+ },
+ "r1b4r/pp3k1p/2p2p2/2bq4/3p4/3P4/PPP3PP/RNBQ1RK1 w - -": {
+  "text": "Since my rook is already attacking the isolated pawn on f6, I will have no trouble lining up the rest of my pieces to attack it.",
+  "source": "Kasparov - Roizman, Minsk 1978.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r1bq1rk1/1p1nnpbp/4p1p1/p3P1B1/P2PN3/1B6/1P4PP/RN1Q1RK1 b - -": {
+  "text": "15...h6 16.Bh4 g5 17.Bxg5 hxg5 18.Nxg5 And I will mate Black in a few moves.",
+  "source": "Kasparov - Palatnik, Daugavpils 1978.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "4qrkr/5np1/p3pp1p/1p3N2/4Q1PP/8/PPP5/2KR1R2 w - -": {
+  "text": "24...Ne5 25.g5 hxg5 26.hxg5 Qg6 27.Qxg6 Nxg6 28.Nxe6 Re8 29.gxf6 And Black will get mated or lose a piece.",
+  "source": "Kasparov - Panchenko, Daugavpils 1978.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "r1bqkb1r/1p3ppp/p1nppn2/6P1/3NP3/2N1B3/PPP2P1P/R2QKB1R b KQkq -": {
+  "text": "This is Keres' idea and is played with the obvious intention of disorganizing Black's development, while launching a kingside attack.",
+  "source": "Kasparov - Polugayevsky, Moscow 1979.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "r3rbk1/1pqn1pp1/p2p2np/2pPp3/2P1P3/2N2N1P/PP3PP1/R1BQR1K1 w - -": {
+  "text": "I wanted to eliminate the light-squared bishops because mine doesn't do much and his defends the light-squares.",
+  "source": "Kasparov - Georgadze, Soviet Championship 1979.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies before this position]",
+  "extracted": true
+ },
+ "r1r2k2/pp3p1p/2p2bp1/2n1p3/2P1P3/5N2/PP2BPPP/2KR3R w - -": {
+  "text": "Forced in view of the threat to White's e-pawn.",
+  "source": "Danailov - Kasparov, World Junior Championship Dortmund 1980.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r2qrnk1/pp3ppp/3p1n2/2bP4/6P1/P1N3NP/1P3PK1/R1BQ1R2 w - -": {
+  "text": "14...Bg6 15.Ng3 Ne5 16.g5 Nfd7 17.Nce4 is better for White due to his kingside initiative.",
+  "source": "Kasparov - Csom, Baku 1980.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 4 plies before this position]",
+  "extracted": true
+ },
+ "rnb1r1k1/pp3p1p/5Pp1/2pP4/1q4P1/2N2P2/P3B3/R1Q2K1R b - -": {
+  "text": "White should have regrouped and, putting aside his ambitious thoughts, come to terms with the leveling of chances. 19.Qd2 should be preferred. 19.Qd2 Nd7 20.Rb1 Qd4 21.Qxd4 cxd4 22.Ne4 d3 23.Bxd3 Nxf6 24.Kf2 Nxd5 25.Rb5 is good for White due to the weak f6 square.",
+  "source": "Vaiser - Kasparov, Moscow 1981.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r3r1k1/pbq1bp1p/1pn1p1pB/2p5/3PP3/P1PB1N2/2Q2PPP/R2R2K1 w - -": {
+  "text": "I have emerged from the opening with a clear advantage and can attack the queenside at will and with abandon -- or so I thought!",
+  "source": "Kasparov - Petrosian, Tilburg 1981.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "r3k2r/1pqnbpp1/pnp1p1p1/6P1/3P1P2/2N1P2P/PP4B1/R1BQ1RK1 w kq -": {
+  "text": "I have emerged from the opening with a clear advantage and can attack the queenside at will and with abandon -- or so I thought!",
+  "source": "Kasparov - Petrosian, Tilburg 1981.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "2bqk2r/r3npb1/1pn1p1pp/p7/P2pP2P/1N1P1NP1/1P1B1PB1/R2QR1K1 b k -": {
+  "text": "White doesn't have any natural plan in this position, while I will expand in the center and on the kingside.",
+  "source": "Ljubojevic - Kasparov, Niksic 1983.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies after this position]",
+  "extracted": true
+ },
+ "r2qkb1r/pbpn2pp/1p3p2/3p2B1/3P4/P4N2/1PQ1PPPP/R3KB1R w KQkq -": {
+  "text": "Now the e6 square is weakened. But exchanging bishops would not have helped Black. 9...Be7 10.Bxe7 Kxe7 Black can't take with the queen because then the c-pawn falls. 11.e3 Re8 12.Bd3 h6 13.O-O Kf8 White's bishop is much more effective than Black's.",
+  "source": "Kasparov - Karpov, World Championship 1984.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r2q2k1/p1p2rpp/1p2b3/n1Pp1p2/3P4/2Q1P1P1/P2N1PBP/R4RK1 w - -": {
+  "text": "I should have moved the bishop to e5 or h4, but instead I started a fierce battle in which many soldiers left the battlefield.",
+  "source": "Kasparov - Karpov, World Championship 1985.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r2qr1k1/5ppp/p4n2/1pbP1bB1/8/2Nn1B2/PP1Q1PPP/1N1R1RK1 b - -": {
+  "text": "Hardly an improvement. 17.d6 would have been best.",
+  "source": "Karpov - Kasparov, World Championship 1985.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r4rk1/pp2bppp/2n2n2/8/5B2/3BPQNP/qP4P1/3R1RK1 w - -": {
+  "text": "My advantage lies in the fact that I have the bishop pair in a open position and my vulnerable c-pawn has been exchanged for the b7-Pawn.",
+  "source": "Kasparov - Karpov, World Championship 1986.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "8/5ppk/1r4b1/3pNq1p/R2P3P/P5Q1/5PP1/6K1 w - -": {
+  "text": "When you have more material, in this case a pawn, it is a frequently a good idea to exchange pieces, and to avoid the exchange of pawns. I want to exchange rooks.",
+  "source": "Kasparov - Karpov, World Championship 1986.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies before this position]",
+  "extracted": true
+ },
+ "3q1rk1/pBrbnppp/4p3/8/2n5/1N1Q2P1/P3PP1P/R1B2RK1 w - -": {
+  "text": "My advantage lies in the fact that I have the bishop pair in a open position and my vulnerable c-pawn has been exchanged for the b7-Pawn.",
+  "source": "Kasparov - Karpov, World Championship 1986.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r1b1kb1r/pp3pp1/2n1pq1p/8/2PP4/P4N2/5PPP/R1BQKB1R w KQkq -": {
+  "text": "In order to prevent Bb4+ which could be good for Black in many variations.",
+  "source": "Kasparov - Weemaes, Cannes Simultaneous Exhibition 1988.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r2qk2r/1p1nbp1p/p3bnpB/3p4/3P2P1/2N2P2/PP1QN2P/R3KB1R w KQkq -": {
+  "text": "This move is a mistake as it takes the d7 square away from the other knight. Better was 13...Nc6. Then 14.Bg2 Bf8 15.O-O Bxh6 16.Qxh6 Qb6 17.Rad1 O-O-O 18. Rd2 is only slightly better for White because of his more active pieces.",
+  "source": "Kasparov - Short, Thessaloniki Olympiad 1988.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r1bq1rk1/4n1bp/1p1p1n2/1P1Pp1p1/N3Pp2/5P2/3NB1PP/1RBQ1RK1 b - -": {
+  "text": "An ugly move, but the b-pawn must be protected.",
+  "source": "Kasparov - Smirin, Soviet Championship 1988.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "3r1nk1/pp4p1/2pqp2p/8/5Q1P/2P1R3/PPB2PP1/6K1 w - -": {
+  "text": "A voluntary and unexpected weakening of Black's pawn structure. 22...Nxe6 23.Qe4 Nf8 24.Rg3 Clearly White has the better game, though converting it into a win will not be easy.",
+  "source": "Kasparov - Karpov, Amsterdam 1988.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r1bq1rk1/ppp3bp/3p1p1n/3P2p1/2PQP3/2N3BP/PP2BPP1/R3K2R b KQ -": {
+  "text": "In return for the pawn I have a bishop which is once again alive and well, ready to exert a lot of pressure on the diagonal. White's bishop at g3, however, is pathetic. But is this worth the material investment?",
+  "source": "Speelman - Kasparov, Madrid Rapids 1989.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r2q1rk1/4ppbp/1nnpb1p1/p2N4/4PP2/1N4P1/1PP3BP/R1BQ1R1K b - -": {
+  "text": "This rook lift accomplishes nothing since the rook can't get to the kingside and White is not attacking there in any event. 18.c3 Na5! I would have been quite happy with this position!",
+  "source": "Damljanovic - Kasparov, Belgrade 1989.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 4 plies after this position]",
+  "extracted": true
+ },
+ "r3r1k1/pb3p2/1p2pBpp/n7/3P4/2P5/P3BPPP/3R1RK1 w - -": {
+  "text": "Played with the idea of attacking on the h-file after a future Rh3.",
+  "source": "Smyslov - Martinovic, Groningen 1989.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "8/R5p1/3k4/3n1bp1/1p6/1P3P1P/5KP1/8 b - -": {
+  "text": "The knight has done its duty on the queenside and returns to provide support for the center and for its fellow steed at f3.",
+  "source": "Fischer - Spassky, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "r1b4r/1ppnqpk1/p2p2p1/3Pp3/2P1P1PP/1QN5/PP2B3/1K4RR w - -": {
+  "text": "White has full compensation for the sacrificed pawn, but Fischer defends well.",
+  "source": "Spassky - Fischer, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "4b2r/1pp1qpkr/3p1Rp1/p1nPp1P1/2P1P2P/1PN3Q1/P3B3/1K5R w - -": {
+  "text": "This is natural, but nevertheless questionable, since Black can now both consolidate his position and win the important pawn at h2. 27.Rf2! deserved consideration, for example Be7 28.Bd2 Rd8 29.Ke2 intending 30.Bc3.",
+  "source": "Spassky - Fischer, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "r1bq1rk1/1pp1npb1/p2p1np1/3Pp2p/2P1P2P/2N1BP2/PP4P1/R1NQKB1R w KQ -": {
+  "text": "Now Fischer introduces a completely new plan, developing his knight on the flank.",
+  "source": "Spassky - Fischer, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "r1bqk2r/pp1n1ppp/2pb1n2/6P1/2pNP3/2N5/PPQ2P1P/R1B1KB1R b KQkq -": {
+  "text": "I have the initiative here, and that means that White has mishandled the opening.",
+  "source": "Adams - Kasparov, Dortmund 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "2rr4/1b2kp1p/p3pn2/2n5/1B1NP3/NP3P2/P3B2P/3R1K2 b - -": {
+  "text": "This lets Fischer escape. 22. Ng3!? Rxd1+ 23.Kxd1 Rd8+ 24.Ke2 gives White a dangerous initiative. After capturing on e6, the light squares will be very weak.",
+  "source": "Spassky - Fischer, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "1k2b2r/ppq1bpp1/4p2p/P2n2P1/7R/1B1N1N2/1PPQ1PP1/2K5 w - -": {
+  "text": "The point of this move is to get off of the c-file, so that I can advance the c-pawn.",
+  "source": "Kasparov - Karpov, Linares 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "1r6/2rkpb2/p1pp1bp1/N4n2/1P1P3p/P2K1P1P/2RBN1P1/4R3 w - -": {
+  "text": "There is the threat of a big fork at g7.",
+  "source": "Fischer - Spassky, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "4r1k1/p5pp/1n3p2/R7/3p2P1/3P3P/1P1B1P2/5K2 b - -": {
+  "text": "This threatens to liquidate a lot of pieces following captures on a5 and a8, after which Nb1-a3 will win the weak pawn at b5. So Black must try a desperate sacrifice.",
+  "source": "Fischer - Spassky, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn)",
+  "extracted": true
+ },
+ "r2qr1k1/1b1n1pbn/p2p2pp/1p1Pp3/PPp1P3/2P2NNP/2BB1PP1/R2QR1K1 w - -": {
+  "text": "This is an , and perhaps a strong one. It is not just the move that is new, but the idea of a delayed b4 after Black has advanced to c4.",
+  "source": "Fischer - Spassky, Sveti Stefan 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "8/r2n2kp/ppR2pp1/4p3/6P1/1P2PN2/P4PKP/8 b - -": {
+  "text": "Andersson redirects his knight to the more lucrative outpost on e4.",
+  "source": "Andersson, U - Robatsch, ? 1979.??.?? - annotation by annotator not credited (gm_games.pgn)",
+  "extracted": true
+ },
+ "r2q1rk1/p4ppp/2pb1n2/3p1b2/8/1PN1P1P1/P2BBP1P/R2Q1RK1 b - -": {
+  "text": "The h-pawn is used as a battering ram in a classical attack against the king's fortress.",
+  "source": "Bronstein, D - Shamkovich, L, USSR Championship 1960.??.?? - annotation by Shamkovich, L (gm_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ },
+ "rnbq1k1r/p1p2pp1/1p2p2p/3pP3/3P2Q1/P1nBB3/2P2PPP/R3K1NR w KQ -": {
+  "text": "An interesting concept aimed at exchanging off one of White's strong bishops with Bc8-a6. Hort has played 10...c5 against me but did not equalize after 11.dxc5 Qa5? 12.Bd2 Qa4 13.Qb4! Qxb4 14.axb4 with a winning position for White . However the up-to-date recommendation of 11...Nc6 12.Nf3 f5! is an improvement. More promising for White is likely 12.Qf4 f5 13.h4.",
+  "source": "Shamkovich, L - Prokhorovich, Moscow TCh 1961.??.?? - annotation by Shamkovich, L (gm_games.pgn)",
+  "extracted": true
+ },
+ "r5k1/p3Bqpr/np2pP2/2pp2Qp/3n1N1P/P2P2R1/5PP1/R3K3 w Q -": {
+  "text": "The alternative 24.Bxf6 is weaker because of 24...Nf5!",
+  "source": "Shamkovich, L - Prokhorovich, Moscow TCh 1961.??.?? - annotation by Shamkovich, L (gm_games.pgn) [note written 1 ply before this position]",
+  "extracted": true
+ },
+ "3r1r2/1p3pk1/p5qp/8/2Q5/1B4P1/Pb4PP/4RR1K b - -": {
+  "text": "Black's king and f-pawn will be constant targets. Still, if Black could play f7-f6 and Bbb2-e5!? he might defend.",
+  "source": "Svidler, P - Leko, P, XVI Ciudad de Linares 1999.??.?? - annotation by Browne, W (gm_games.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "r1b1k2r/3nb1pp/pq2p3/1p1pPp2/1P3P2/P2P1N2/3BQ1PP/R2NK2R w KQkq f6": {
+  "text": "Now the Black Pawn on e6 is backward. A black piece will be always tied down to the defence of this Pawn. After this move the activity of Black Bishop on c8 is greatly diminished.",
+  "source": "Steinitz, W - Sellman, A.G., ? 1885.??.?? - annotation by Dhanesh Shrikhande (great_masters.pgn)",
+  "extracted": true
+ },
+ "r2qrnk1/pp2bpp1/2p1b2p/3p3n/3P4/2NBPN1P/PPQ2PPB/1R3RK1 b - -": {
+  "text": "Now commences the famous and formidable minority attack on the Queen side.",
+  "source": "Capablanca - Golombek, H, ? 1939.??.?? - annotation by Rashmin Pulekar (great_masters.pgn) [note written 4 plies before this position]",
+  "extracted": true
+ },
+ "r1bqk2r/pp1n1ppp/2p1p3/8/2PPpB2/P3P2P/1P1Q1PP1/R3KB1R b KQkq -": {
+  "text": "Better was 11...Qe7 followed by 12...e5 to get some counterplay.",
+  "source": "Tarrasch, S - Von Scheve, T, ? 1894.??.?? - annotation by Dhanesh Shrikhande (great_masters.pgn)",
+  "extracted": true
+ },
+ "r4rk1/1p3ppp/p1p5/3Np3/2P1P1n1/8/PP3PPP/R3R1K1 w - -": {
+  "text": "After this natural move Black's d6 is seriously weakened. Better was 16... Nf6, after which 17 Nxf6 gives White only a slight advantage.",
+  "source": "Tarrasch, S - Vogel, S, ? 1910.??.?? - annotation by Dhanesh Shrikhande (great_masters.pgn) [note written 2 plies before this position]",
+  "extracted": true
+ },
+ "2nq1rk1/1r1b2bp/1p1p1n2/1P1Pp1B1/N1N1P3/5BP1/5R2/1R1Q2K1 w - -": {
+  "text": "This is the right move. Next I will sacrifice the b-pawn and then I will be the one attacking on kingside.",
+  "source": "Kasparov - Smirin, Soviet Championship 1988.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 3 plies after this position]",
+  "extracted": true
+ },
+ "1r3rk1/1b1qbppp/p2pp3/6P1/1p1BP2P/5P2/PPPQ4/2KR1B1R w - -": {
+  "text": "White has the superior position because of a spatial advantage and prospects for a kingside attack.",
+  "source": "Fischer - Spassky, Belgrade 1992.??.?? - annotation by annotator not credited (famous_games.pgn) [note written 1 ply after this position]",
+  "extracted": true
+ }
+}
